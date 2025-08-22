@@ -1,11 +1,9 @@
-## Hola👋 Soy Liliana desarroladora de software!
-
-<!--
-**Liliana993/Liliana993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
- 🔭 I’m currently working on ...
+<h1>Hola👋 Soy Liliana desarroladora de software!</h1>
+<br>
+<h2>Here are some ideas to get you started:</h2>
+<br>
+<p>
+  🔭 I’m currently working on ...
  Api REST de inventario de productos, con la creación y autenticación de ususrios.
  🌱 I’m currently learning ...
 En proyectosde práctivca web
@@ -17,3 +15,5 @@ mediante email
 Me encanta la organización, sea de un proyecto como de un lguga.
 😄 Pronouns: Lili o Li
 ⚡ Fun fact: Quiero estudiar una ingeniería en software.
+</p>
+
