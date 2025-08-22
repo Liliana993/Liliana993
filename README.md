@@ -13,6 +13,6 @@ proyectos para prácticar los apendido</li>
 mediante email</li>
   <li>📫 How to reach me: ...
 Me encanta la organización, sea de un proyecto como de un lguga.</li>
-  <li>😄 Pronouns: Lili o Li
-⚡ Fun fact: Quiero estudiar una ingeniería en software.</li>
+  <li>😄 Pronouns: Lili o Li</li>
+  <li>⚡ Fun fact: Quiero estudiar una ingeniería en software.</li>
 </ul>
