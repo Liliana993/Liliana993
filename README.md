@@ -1,18 +1,53 @@
-<h1>Hola👋 Soy Liliana desarroladora de software!</h1>
-<br>
-<h2>Here are some ideas to get you started:</h2>
-<br>
-<ul>
-  <li>🔭 I’m currently working on ...
- Api REST de inventario de productos, con la creación y autenticación de ususrios.</li>
-  <li> 🌱 I’m currently learning ...
-En proyectosde práctivca web</li>
-  <li>🤔 I’m looking for help with ...
-proyectos para prácticar los apendido</li>
-  <li>💬 Ask me about ...
-mediante email</li>
-  <li>📫 How to reach me: ...
-Me encanta la organización, sea de un proyecto como de un lguga.</li>
-  <li>😄 Pronouns: Lili o Li</li>
-  <li>⚡ Fun fact: Quiero estudiar una ingeniería en software.</li>
-</ul>
+<h1 align="center">👋 Hola, soy Liliana</h1>
+<h3 align="center">Desarrolladora de Software en formación 🚀</h3>
+
+---
+
+## 💫 Sobre mí
+
+Soy desarrolladora enfocada en el aprendizaje constante y la construcción de proyectos web.  
+Me gusta crear soluciones prácticas y seguir mejorando mis habilidades en desarrollo full stack.
+
+---
+
+## 🧠 Actualmente
+
+- 🔭 Trabajando en un **SAAS de inventario de productos**
+  - con autenticación de usuarios y gestión de datos
+
+- 🌱 Aprendiendo desarrollo web con proyectos prácticos
+
+---
+
+## 🤝 En qué puedo mejorar
+
+- Busco seguir practicando con proyectos reales
+- Mejorar buenas prácticas en backend y frontend
+- Aprender más sobre arquitectura de software
+
+---
+
+## 💬 Pregúntame sobre
+
+- Desarrollo web básico y proyectos en práctica
+- Organización de proyectos
+- Aprendizaje en programación
+
+---
+
+## 📫 Contacto
+
+- ✉️ Email: tuemail@email.com
+
+---
+
+## ⚡ Dato curioso
+
+Me interesa estudiar una ingeniería en software 🎓  
+y seguir creciendo en el mundo del desarrollo.
+
+---
+
+## 💗 Pronombres
+
+Lili / Li
