@@ -37,7 +37,7 @@ Me gusta crear soluciones prácticas y seguir mejorando mis habilidades en desar
 
 ## 📫 Contacto
 
-- ✉️ Email: tuemail@email.com
+- ✉️ Email: lili_esco@yahoo.com.ar
 
 ---
 
