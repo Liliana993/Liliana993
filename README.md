@@ -13,7 +13,7 @@ Me gusta crear soluciones prácticas y seguir mejorando mis habilidades en desar
 ## 🧠 Actualmente
 
 - 🔭 Trabajando en un **SAAS de inventario de productos**
-  - con autenticación de usuarios y gestión de datos
+  - integrando inteligencia artificial.
 
 - 🌱 Aprendiendo desarrollo web con proyectos prácticos
 
